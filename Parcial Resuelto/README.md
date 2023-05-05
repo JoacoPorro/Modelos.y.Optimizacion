@@ -1,0 +1,1 @@
+Parcial Corregido con nota 
