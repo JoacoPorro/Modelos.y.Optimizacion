@@ -1,5 +1,6 @@
 # ModelosYOptimizacion1
-Material de Modelos y Optimización 1 FIUBA - 2022 2C
+###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
+##### Dejame una ⭐!
 
 Drives:
 * https://drive.google.com/drive/u/3/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw
@@ -8,4 +9,4 @@ Drives:
 Links:
 * https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c (Drives guardados en zips por si pasa algo con los originales)
 
-Dejame una ⭐!
+### Viva La Libertad Carajo!
