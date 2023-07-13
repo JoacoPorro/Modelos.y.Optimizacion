@@ -1,5 +1,5 @@
 # Modelos y Optimizacion I
-###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
+###### Manden drives -> jporro@fi.uba.ar
 ##### Dejame una ⭐!
 
 Drives:
