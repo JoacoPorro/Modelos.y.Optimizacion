@@ -1,6 +1,6 @@
-# Modelos y Optimizacion I
-###### Manden drives -> jporro@fi.uba.ar
-##### Dejame una ⭐!
+# Material  Modelos y Optimizacion I FIUBA
+###### Drives que falten --> jporro@fi.uba.ar
+
 
 Drives:
 * https://drive.google.com/drive/u/3/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw
@@ -9,4 +9,6 @@ Drives:
 Links:
 * https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c (Drives guardados en zips por si pasa algo con los originales)
 
+  
+### Deja ⭐ Arriba
 ### Viva La Libertad Carajo!
