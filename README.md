@@ -7,7 +7,7 @@
 * https://drive.google.com/drive/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw
 
 ### Parciales:
-* [Modelos de parcial y Resueltos](https://drive.google.com/drive/folders/19k2CDqAoVJNFHZz6tq4Q_FEFhGl1n-C-)
+* [Parciales Resueltos](https://drive.google.com/drive/folders/19k2CDqAoVJNFHZz6tq4Q_FEFhGl1n-C-)
 
 ### Links:
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:71:14)
