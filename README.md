@@ -3,7 +3,7 @@
 
 
 #### ___DRIVES___:
-* https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF _(varios drives en uno)_
+* https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF ___5 en 1___
 * https://drive.google.com/drive/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw
 <!--
 ### Parciales:
