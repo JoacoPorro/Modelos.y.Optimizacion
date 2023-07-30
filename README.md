@@ -2,7 +2,7 @@
 ###### ___Drives que falten --> jporro@fi.uba.ar___
 
 ### ___DRIVES___:
-* https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF ___5 EN 1___
+* https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF ___5 DRIVES EN 1___
 * https://drive.google.com/drive/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw
 <!--
 ### Parciales:
@@ -13,7 +13,7 @@
   -->
 
 ### ___LINKS___:
-* [___REPO UTIL___](https://github.com/AbrahamOsco/Modelos71.14) ___(VEAN LOS CONSEJOS)___
+* [___REPO UTIL___](https://github.com/AbrahamOsco/Modelos71.14) ___VEAN LOS CONSEJOS___
 * [___WIKI FIUBA___](http://wiki.foros-fiuba.com.ar/materias:71:14)
 * [___DRIVES EN ZIPS POR SI PASA ALGO___](https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c)
 
