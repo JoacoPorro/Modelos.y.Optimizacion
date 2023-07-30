@@ -2,7 +2,7 @@
 ###### ___Drives que falten --> jporro@fi.uba.ar___
 
 
-#### ___DRIVES___:
+#### _DRIVES_:
 * https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF _(varios drives en uno)_
 * https://drive.google.com/drive/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw
 <!--
@@ -13,7 +13,7 @@
 * [Modelos](https://github.com/lucasbilo/ModelosYOptimizacionI/blob/main/ParcialesResueltos/Tp20210311.pdf)
   -->
 
-#### ___LINKS___:
+#### _LINKS_:
 * [Muy Buena Repo _(vean los consejos)_](https://github.com/AbrahamOsco/Modelos71.14)
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:71:14)
 * [Drives en zips por las dudas](https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c)
