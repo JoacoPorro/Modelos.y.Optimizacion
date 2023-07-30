@@ -19,5 +19,5 @@
 * [Drives en zips por las dudas](https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c)
 
   
-### ___Deja ⭐___
-### ___Viva La Libertad Carajo!___
+### _Deja ⭐_
+### _Viva La Libertad Carajo!_
