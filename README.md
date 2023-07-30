@@ -5,12 +5,13 @@
 ### Drives:
 * https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF _(varios drives en uno)_
 * https://drive.google.com/drive/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw
-
+<!--
 ### Parciales:
 * [Parciales Resueltos](https://drive.google.com/drive/folders/19k2CDqAoVJNFHZz6tq4Q_FEFhGl1n-C-)
 * [Parciales Resueltos](https://drive.google.com/drive/folders/1_WpZf36kuXF7kEiBnYxCwbE4-ujvNNAx)
 * [Parciales Resueltos _(algunos estan ya en los otros links)_](https://drive.google.com/drive/folders/1GkAzTrqeFMjKkkh-ZN_O3GRUb9s4-3ps)
 * [Modelos](https://github.com/lucasbilo/ModelosYOptimizacionI/blob/main/ParcialesResueltos/Tp20210311.pdf)
+  -->
 
 ### Links:
 * [Muy Buena Repo _(vean los consejos)_](https://github.com/AbrahamOsco/Modelos71.14)
