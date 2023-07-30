@@ -14,7 +14,7 @@
   -->
 
 #### ___LINKS___:
-* [Muy Buena Repo _(vean los consejos)_](https://github.com/AbrahamOsco/Modelos71.14)
+* [Muy Buena Repo ___(vean los consejos)___](https://github.com/AbrahamOsco/Modelos71.14)
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:71:14)
 * [Drives en zips por las dudas](https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c)
 
