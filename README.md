@@ -1,4 +1,4 @@
-# ___Material Modelos y Optimizacion I___ FIUBA
+# ___Material Modelos y Optimizacion I FIUBA___
 ###### ___Drives que falten --> jporro@fi.uba.ar___
 
 
