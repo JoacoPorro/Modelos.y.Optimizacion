@@ -13,9 +13,9 @@
   -->
 
 ### ___LINKS___:
-* [Muy Buena Repo ___(vean los consejos)___](https://github.com/AbrahamOsco/Modelos71.14)
-* [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:71:14)
-* [Drives en zips por las dudas](https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c)
+* [___REPO UTIL___ ___(VEAN LOS CONSEJOS)___](https://github.com/AbrahamOsco/Modelos71.14)
+* [___WIKI FIUBA___](http://wiki.foros-fiuba.com.ar/materias:71:14)
+* [___DRIVES EN ZIPS POR SI PASA ALGO___](https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c)
 
   
 ### _Deja ⭐_
