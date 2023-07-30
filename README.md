@@ -3,8 +3,8 @@
 
 
 #### ___DRIVES___:
-* ___https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF___ ___5 en 1___
-* ___https://drive.google.com/drive/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw___
+* __https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF__ ___5 en 1___
+* __https://drive.google.com/drive/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw__
 <!--
 ### Parciales:
 * [Parciales Resueltos](https://drive.google.com/drive/folders/19k2CDqAoVJNFHZz6tq4Q_FEFhGl1n-C-)
