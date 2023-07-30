@@ -2,7 +2,7 @@
 ###### ___Drives que falten --> jporro@fi.uba.ar___
 
 
-#### ___DRIVES___: lista completa
+#### ___DRIVES___:
 * https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF _(varios drives en uno)_
 * https://drive.google.com/drive/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw
 <!--
