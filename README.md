@@ -1,5 +1,5 @@
 # __Material Modelos y Optimizacion I FIUBA__
-###### ___Drives que falten --> jporro@fi.uba.ar___
+###### Drives --> jporro@fi.uba.ar
 
 ### Drives:
 * https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF __5 drives en 1__
