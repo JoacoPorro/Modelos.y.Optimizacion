@@ -13,7 +13,7 @@
   -->
 
 ### Links:
-* [__Muy Buena Repo__](https://github.com/AbrahamOsco/Modelos71.14) __vean los consejos__
+* [__Otra Repo__](https://github.com/AbrahamOsco/Modelos71.14) __vean los consejos__
 * [__Wiki Fiuba__](http://wiki.foros-fiuba.com.ar/materias:71:14)
 <!-- * [__DRIVES EN ZIPS POR SI PASA ALGO__](https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c) -->
 
