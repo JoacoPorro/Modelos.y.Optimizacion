@@ -15,7 +15,7 @@
 ### __LINKS__:
 * [__MUY BUENA REPO__](https://github.com/AbrahamOsco/Modelos71.14) __VEAN LOS CONSEJOS__
 * [__WIKI FIUBA__](http://wiki.foros-fiuba.com.ar/materias:71:14)
-* [__DRIVES EN ZIPS POR SI PASA ALGO__](https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c)
+<!-- * [__DRIVES EN ZIPS POR SI PASA ALGO__](https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c) -->
 
   
 ### _Deja ⭐_
