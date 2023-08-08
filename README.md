@@ -2,8 +2,8 @@
 ###### ___Drives que falten --> jporro@fi.uba.ar___
 
 ### Drives:
-* _https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF_ __5 drives en 1__
-* _https://drive.google.com/drive/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw_
+* https://drive.google.com/drive/folders/1dvhqASvafGrSnOguVjGulC9yIFft_ivF __5 drives en 1__
+* https://drive.google.com/drive/folders/1TGWr3mYEjGZGiakfAHsiJEd0ihF_lBlw
 <!--
 ### Parciales:
 * [Parciales Resueltos](https://drive.google.com/drive/folders/19k2CDqAoVJNFHZz6tq4Q_FEFhGl1n-C-)
