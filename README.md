@@ -17,8 +17,6 @@
 * [Grupo Whatsapp](https://chat.whatsapp.com/Hi4rc91FbCZ7lYk02pII9m)
 * [Otra Repo](https://github.com/AbrahamOsco/Modelos71.14) __vean los consejos__
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:71:14)
-<!-- * [__DRIVES EN ZIPS POR SI PASA ALGO__](https://drive.google.com/drive/u/1/folders/1TCuZhHYz08hRTbka7LMtjLn276iJwJ3c) -->
-
   
 ### Deja ⭐ Arriba
 ### Viva La Libertad Carajo!
