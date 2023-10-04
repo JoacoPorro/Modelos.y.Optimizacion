@@ -14,7 +14,6 @@
   -->
 
 ### Links:
-* [Grupo Whatsapp](https://chat.whatsapp.com/Hi4rc91FbCZ7lYk02pII9m)
 * [Otra Repo](https://github.com/AbrahamOsco/Modelos71.14) __vean los consejos__
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:71:14)
   
